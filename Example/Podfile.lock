@@ -1,0 +1,16 @@
+PODS:
+  - ColorCompatibility (1.1.0)
+
+DEPENDENCIES:
+  - ColorCompatibility (from `../`)
+
+EXTERNAL SOURCES:
+  ColorCompatibility:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ColorCompatibility: 7257750b5ac742db9c8b593966c6f8e06992149b
+
+PODFILE CHECKSUM: cca58265740ac80f38b622a476d198a5d2305477
+
+COCOAPODS: 1.10.0
